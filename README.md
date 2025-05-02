@@ -1,16 +1,16 @@
-## Hi there 👋
+hi, im ali ghaffarian
 
-<!--
-**AliGhaffarian/AliGhaffarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a little about myself:
+-
+- i play CTF
+- i love analysing pcaps
+- i love implementing network stuff
+- i love learning more about the linux kernel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+checkout:
+- 
+- [ctf writeups](https://github.com/AliGhaffarian/my_writeups/blob/main/ctf/links-to-my-ctf-writeups)
+- [ctf challenges](https://github.com/AliGhaffarian/my_ctf_challs)
+- [torurials](https://github.com/AliGhaffarian/my_writeups/blob/main/other_docs)
+- my favorite project, [awesome bash scripts](https://github.com/sepsoh/awesome-bash-scripts)
+- [talks](https://github.com/AliGhaffarian/talks)
