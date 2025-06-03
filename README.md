@@ -1,18 +1,18 @@
 hi, im ali ghaffarian
 
-# a little about myself:
-- i play CTF
-- i love analysing pcaps
-- i love implementing network stuff
-- i love learning more about the linux kernel
+# A little about myself:
+- I play CTF
+- I love analysing pcaps
+- I love implementing network stuff
+- I love learning more about the linux kernel
 
-# checkout:
-- [ctf writeups](https://github.com/AliGhaffarian/my_writeups/blob/main/ctf/links-to-my-ctf-writeups)
-- [ctf challenges](https://github.com/AliGhaffarian/my_ctf_challs)
-- [torurials](https://github.com/AliGhaffarian/my_writeups/blob/main/other_docs)
-- [talks](https://github.com/AliGhaffarian/talks)
+# Checkout:
+- [CTF writeups](https://github.com/AliGhaffarian/my_writeups/blob/main/ctf/links-to-my-ctf-writeups)
+- [CTF challenges](https://github.com/AliGhaffarian/my_ctf_challs)
+- [Torurials](https://github.com/AliGhaffarian/my_writeups/blob/main/other_docs)
+- [Talks](https://github.com/AliGhaffarian/talks)
 
-# things i've done/doing
+# Things i've done/doing
 ## Network Implementations (libpcap, C, scapy, shell scripting, nfqueue)
  - Simple network protocol (libpcap, C)
  - [DHCP starvation (scapy)](https://github.com/AliGhaffarian/dhcp-starvation-using-scapy)
