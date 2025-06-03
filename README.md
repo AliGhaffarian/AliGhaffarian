@@ -7,7 +7,6 @@ hi, im ali ghaffarian
 - i love learning more about the linux kernel
 
 # checkout:
-- 
 - [ctf writeups](https://github.com/AliGhaffarian/my_writeups/blob/main/ctf/links-to-my-ctf-writeups)
 - [ctf challenges](https://github.com/AliGhaffarian/my_ctf_challs)
 - [torurials](https://github.com/AliGhaffarian/my_writeups/blob/main/other_docs)
