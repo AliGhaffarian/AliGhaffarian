@@ -1,10 +1,10 @@
-# A little about myself:
+# A little about myself
 - I play CTF
 - I love analysing pcaps
 - I love implementing network stuff
 - I love learning more about the linux kernel
 
-# Checkout:
+# Checkout
 - [CTF writeups](https://github.com/AliGhaffarian/my_writeups/blob/main/ctf/links-to-my-ctf-writeups)
 - [CTF challenges](https://github.com/AliGhaffarian/my_ctf_challs)
 - [Torurials](https://github.com/AliGhaffarian/my_writeups/blob/main/other_docs)
