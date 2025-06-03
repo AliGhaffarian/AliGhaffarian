@@ -1,5 +1,3 @@
-hi, im ali ghaffarian
-
 # A little about myself:
 - I play CTF
 - I love analysing pcaps
