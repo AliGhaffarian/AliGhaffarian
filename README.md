@@ -26,9 +26,8 @@
 - [Made simple commands that use some of NetworkManager's dbus API (golang)](https://github.com/sepsoh/awesome-bash-scripts)
 
 ## Learning 
-- Linux tracnig and programming
-	- Modified linux kernel to always generate 1 for TCP ISN, ran and tested on qemu	
- - Binary analysis (GDB, ghidra)
+- Linux tracnig and programming	
+- Binary analysis (GDB, ghidra)
 
 ## CTF Achievements
 - MashhadCTF 3rd place
