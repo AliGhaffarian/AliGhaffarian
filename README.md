@@ -28,9 +28,3 @@
 ## Learning 
 - Linux tracnig and programming	
 - Binary analysis (GDB, ghidra)
-
-## CTF Achievements
-- MashhadCTF 3rd place
-- Psycity 2nd place
-                            
-
